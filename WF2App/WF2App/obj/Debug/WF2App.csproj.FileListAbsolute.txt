@@ -1,0 +1,10 @@
+C:\Users\wowdi\source\repos\WF2App\WF2App\bin\Debug\WF2App.exe.config
+C:\Users\wowdi\source\repos\WF2App\WF2App\bin\Debug\WF2App.exe
+C:\Users\wowdi\source\repos\WF2App\WF2App\bin\Debug\WF2App.pdb
+C:\Users\wowdi\source\repos\WF2App\WF2App\obj\Debug\WF2App.csproj.AssemblyReference.cache
+C:\Users\wowdi\source\repos\WF2App\WF2App\obj\Debug\WF2App.Form1.resources
+C:\Users\wowdi\source\repos\WF2App\WF2App\obj\Debug\WF2App.Properties.Resources.resources
+C:\Users\wowdi\source\repos\WF2App\WF2App\obj\Debug\WF2App.csproj.GenerateResource.cache
+C:\Users\wowdi\source\repos\WF2App\WF2App\obj\Debug\WF2App.csproj.CoreCompileInputs.cache
+C:\Users\wowdi\source\repos\WF2App\WF2App\obj\Debug\WF2App.exe
+C:\Users\wowdi\source\repos\WF2App\WF2App\obj\Debug\WF2App.pdb
